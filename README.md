@@ -46,12 +46,19 @@ USEFUL VIDEOS
 --
 [Explained In A Minute: Neural Networks](https://www.youtube.com/watch?v=rEDzUT3ymw4)
 
+[Basic CNN](https://youtu.be/LxfUGhug-iQ)
+
 [Google: AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
+
+[PyTorch Zero to All](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
+
+[MNIST in Google Colab](https://www.youtube.com/playlist?list=PLj-1PeIhriDxdYhemv0kzC0jvNNVazjgS)
 
 [Visualised: Deep Learning Cars](https://www.youtube.com/watch?v=Aut32pR5PQA)
 
 [Machine Learning in Chess](https://www.youtube.com/watch?v=0g9SlVdv1PY)
 
 
+
 ---
-###### Last Edit 021018 1800Hrs Ken
+###### Last Edit 031018 0100HRS Ken
