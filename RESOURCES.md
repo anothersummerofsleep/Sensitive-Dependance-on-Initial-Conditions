@@ -1,8 +1,11 @@
-#USEFUL LINKS:
+#USEFUL LINKS: 
+--
 
 [Basic Markdown for GitHub](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
 
 [Google Dataset Search](https://toolbox.google.com/datasetsearch)
+
+[General Reading: Towards Data Science](https://towardsdatascience.com/)
 
 [PyTorch](https://github.com/pytorch/pytorch)
 
@@ -15,5 +18,8 @@
 [OpenAI: Generative Models](https://blog.openai.com/generative-models/)
 
 [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
+
+#USEFUL VIDEOS
+--
 
 
