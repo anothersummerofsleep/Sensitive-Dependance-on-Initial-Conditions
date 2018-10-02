@@ -1,8 +1,12 @@
 # Sensitive-Dependance-on-Initial-Conditions
 
-~~Learn~~ Understand how Deep Neural Network Algorithms work and their applications in machine learning   
+~~Learn~~ Understand how Deep Neural Network Algorithms work and their applications in machine learning. 
+
+University of Glasgow Machine Learning Final Year Project.
   
-Coverage mainly will be on PyTorch with bits and pieces of TensorFlow  
+Coverage mainly will be on PyTorch with bits and pieces of TensorFlow.
+
+Data will be updated as we learn and progress in the field of machine learning.
   
 Neural Networks that will covered include
 --
