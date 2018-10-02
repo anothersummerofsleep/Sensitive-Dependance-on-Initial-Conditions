@@ -48,6 +48,9 @@ USEFUL VIDEOS
 
 [Google: AI Adventures](https://www.youtube.com/playlist?list=PLIivdWyY5sqJxnwJhe3etaK7utrBiPBQ2)
 
+[Visualised: Deep Learning Cars](https://www.youtube.com/watch?v=Aut32pR5PQA)
+
+[Machine Learning in Chess](https://www.youtube.com/watch?v=0g9SlVdv1PY)
 
 
 ---
