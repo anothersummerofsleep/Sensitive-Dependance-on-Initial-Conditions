@@ -1,8 +1,8 @@
 # Sensitive-Dependance-on-Initial-Conditions
 
-Learn deep neural network algorithms used in machine learning applications&nbsp;  
+~~Learn~~ Understand how Deep Neural Network Algorithms work and their applications in machine learning   
   
-Coverage mainly will be on PyTorch with bits and pieces of TensorFlow&nbsp;  
+Coverage mainly will be on PyTorch with bits and pieces of TensorFlow  
   
 Neural Networks that will covered include
 --
