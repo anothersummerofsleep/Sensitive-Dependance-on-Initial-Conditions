@@ -36,6 +36,10 @@ USEFUL LINKS:
 
 [PyTorch](https://github.com/pytorch/pytorch)
 
+[Introduction to PyTorch](https://www.analyticsvidhya.com/blog/2018/02/pytorch-tutorial/)
+
+[Program NN in Python](https://www.analyticsvidhya.com/blog/2017/05/neural-network-from-scratch-in-python-and-r/)
+
 [Colab:PyTorch Feed-Forward Neural Network Tutorial](https://colab.research.google.com/drive/1jxUPzMsAkBboHMQtGyfv5M5c7hU8Ss2c#scrollTo=VLUaX6tuJMQi)
 
 [CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.github.io/convolutional-networks/)
@@ -45,6 +49,8 @@ USEFUL LINKS:
 [OpenAI: Generative Models](https://blog.openai.com/generative-models/)
 
 [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
+
+
 
 USEFUL VIDEOS
 --
@@ -65,4 +71,4 @@ USEFUL VIDEOS
 
 
 ---
-###### Last Edit 031018 0100HRS Ken
+###### Last Edit 031018 1900HRS Ken
