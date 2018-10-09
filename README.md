@@ -50,6 +50,9 @@ USEFUL LINKS:
 
 [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://skymind.ai/wiki/generative-adversarial-network-gan)
 
+[Machine Learning Sandbox](https://playground.tensorflow.org/)
+
+
 
 
 USEFUL VIDEOS
@@ -71,4 +74,4 @@ USEFUL VIDEOS
 
 
 ---
-###### Last Edit 031018 1900HRS Ken
+###### Last Edit 091018 1915HRS Ken
