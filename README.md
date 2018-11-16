@@ -52,7 +52,7 @@ USEFUL LINKS:
 
 [Machine Learning Sandbox](https://playground.tensorflow.org/)
 
-
+[Microsoft:AI with intelligence and emotions](https://news.microsoft.com/apac/features/much-more-than-a-chatbot-chinas-xiaoice-mixes-ai-with-emotions-and-wins-over-millions-of-fans/)
 
 
 USEFUL VIDEOS
